@@ -1,0 +1,4 @@
+﻿  Q171_ExcelSheetColumnNumber.cpp
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q171_ExcelSheetColumnNumber\Q171_ExcelSheetColumnNumber\Q171_ExcelSheetColumnNumber.cpp(13,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q171_ExcelSheetColumnNumber\Q171_ExcelSheetColumnNumber\Q171_ExcelSheetColumnNumber.cpp(16,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Q171_ExcelSheetColumnNumber.vcxproj -> C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q171_ExcelSheetColumnNumber\Debug\Q171_ExcelSheetColumnNumber.exe
